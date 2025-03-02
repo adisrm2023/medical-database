@@ -36,6 +36,5 @@ The **Medical Pharmacy Management System** is a comprehensive solution designed 
 ## 📜 License
 This project is open-source and free to use. Feel free to contribute and improve it!
 
----
-_Developed by adi._
+
 
